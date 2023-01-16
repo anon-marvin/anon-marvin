@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **CyberSecurity Projects**
 
-- 🌱 I’m currently learning **React and React Native**
+- 🌱 I’m currently learning **React and Flutter**
 
 - 💬 Ask me about **Web,React,Linux**
 
